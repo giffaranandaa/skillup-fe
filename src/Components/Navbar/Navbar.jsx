@@ -3,7 +3,7 @@ import { navLinks } from "../../Data";
 import { HiMenuAlt1, HiX } from "react-icons/hi";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import NavLink from "./Navlink";
+import NavLink from "./NavLink";
 import MobileNavLinks from "./MobileNavLinks";
 import Login from "../../Components/LoginRegisterPage/Login";
 
